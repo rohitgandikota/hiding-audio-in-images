@@ -6,11 +6,11 @@ In this work, we propose an end-to-end trainable model of Generative Adversarial
 
 To cite our work, please use the following code
 
-@inproceedings{gandikota2019hiding,
-  title={Hiding Audio in Images: A Deep Learning Approach},
-  author={Gandikota, Rohit and Mishra, Deepak},
-  booktitle={International Conference on Pattern Recognition and Machine Intelligence},
-  pages={389--399},
-  year={2019},
-  organization={Springer}
+@inproceedings{gandikota2019hiding, </br>
+  title={Hiding Audio in Images: A Deep Learning Approach}, </br>
+  author={Gandikota, Rohit and Mishra, Deepak}, </br>
+  booktitle={International Conference on Pattern Recognition and Machine Intelligence}, </br>
+  pages={389--399}, </br>
+  year={2019}, </br>
+  organization={Springer} </br>
 }
